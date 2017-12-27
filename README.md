@@ -1,4 +1,4 @@
-# Elasticsearch
+# Elasticsearch [![Build Status](https://travis-ci.org/elastic/elasticsearch-rails.svg?branch=master)](https://travis-ci.org/elastic/elasticsearch-rails)
 
 This repository contains various Ruby and Rails integrations for [Elasticsearch](http://elasticsearch.org):
 
